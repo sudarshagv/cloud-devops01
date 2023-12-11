@@ -1,6 +1,0 @@
-this is sample text first line for git codeing
-this is sample for vi editor check
-this is one more time to check
-something add new for try
-testing swap file in c/user/dell/document/project/file.
-adding something for new
